@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🚧 Projeto em contrução: API de Cadastro de Usuários
 
-<!--
-**jose-eduardo-dev/jose-eduardo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 Descrição
+Este projeto é uma **API Back-End** que permite cadastrar, listar, atualizar e deletar usuários.  
+O objetivo é praticar conceitos de programação back-end e manipulação de banco de dados, além de versionamento de código no GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias em Aprendizado
+- Python (em aprendizado)
+- MySQL (em aprendizado)
+- GitHub (em aprendizado)
+- Postman (em aprendizado)
+
+---
+
+## 🚀 Funcionalidades
+- Criar usuário
+- Listar todos os usuários
+- Atualizar informações de usuário
+- Deletar usuário
+
+
