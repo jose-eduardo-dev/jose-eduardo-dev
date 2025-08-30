@@ -31,7 +31,7 @@ Iniciar minha trajetória como **desenvolvedor Back-End**, contribuindo com solu
 
 ## 📫 Contato
 
-- LinkedIn: [https://www.linkedin.com/in/joseeduardo](https://www.linkedin.com/in/joseeduardo)  
-- E-mail: jose.eduardo@email.com
+- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-eduardo-1034a8381/  
+- E-mail: contato.dusilva@gmail.com
 
 
