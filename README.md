@@ -1,36 +1,37 @@
-# 🚧 Projeto em contrução: API de Cadastro de Usuários
+# Olá, eu sou José Eduardo 👋
 
-## 🔹 Descrição
-Este projeto é uma **API Back-End** que permite cadastrar, listar, atualizar e deletar usuários.  
-O objetivo é praticar conceitos de programação back-end e manipulação de banco de dados, além de versionamento de código no GitHub.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **programação Back-End**.  
+Estou em constante aprendizado e desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades em Python, MySQL, GitHub e Postman.  
+
+⚠️ **Projeto em construção** – Meu portfólio está em desenvolvimento à medida que aprendo novas tecnologias.
 
 ---
 
 ## 🛠 Tecnologias em Aprendizado
-- Python (em aprendizado)
-- MySQL (em aprendizado)
-- GitHub (em aprendizado)
-- Postman (em aprendizado)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Funcionalidades
-- Criar usuário
-- Listar todos os usuários
-- Atualizar informações de usuário
-- Deletar usuário
+## 📚 Projetos em Destaque
 
-- ## 📚 O que estou aprendendo
-- Estruturação de uma API Back-End em Python
-- Conexão da API com banco de dados MySQL
-- Testes de endpoints usando Postman
-- Versionamento de código e organização de projetos no GitHub
-- Boas práticas de programação
+- **[API de Cadastro de Usuários](https://github.com/seu-usuario/api-cadastro)** – Projeto (em andamento) em Python com banco de dados MySQL, que será testado no Postman. Funcionalidades: criar, listar, atualizar e deletar usuários.  
+- Mais projetos serão adicionados à medida que avanço nos estudos.
 
 ---
 
-## 💻 Como rodar o projeto
-1. Clone o repositório:
-```bash
-git clone https://github.com/jose-eduardo-dev/jose-eduardo-dev.git
+## 🚀 Objetivo
+
+Iniciar minha trajetória como **desenvolvedor Back-End**, contribuindo com soluções práticas e seguras, enquanto aprendo novas tecnologias e boas práticas de programação.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [https://www.linkedin.com/in/joseeduardo](https://www.linkedin.com/in/joseeduardo)  
+- E-mail: jose.eduardo@email.com
+
 
