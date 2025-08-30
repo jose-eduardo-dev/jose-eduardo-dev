@@ -20,4 +20,18 @@ O objetivo é praticar conceitos de programação back-end e manipulação de ba
 - Atualizar informações de usuário
 - Deletar usuário
 
+- ## 📚 O que estou aprendendo
+- Estruturação de uma API Back-End em Python
+- Conexão da API com banco de dados MySQL
+- Testes de endpoints usando Postman
+- Versionamento de código e organização de projetos no GitHub
+- Boas práticas de programação
+
+---
+
+## 💻 Como rodar o projeto
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/api-cadastro.git
+
 
